@@ -1,2 +1,3 @@
 NPM : 1806269631
 Nama : Bustomi Raharjo
+Jurusan : Sistem Informasi
